@@ -34,3 +34,5 @@
 - Sign everybody to Google Classroom
   - When I need to share some link with them
   - When they will share games so we can play them all
+  - (Maybe to send them roadmap for the ones more interested)
+  - (Or for interesting resources: Griffpatch, Scrathc - Al Sweigart, CS Field Guide)
