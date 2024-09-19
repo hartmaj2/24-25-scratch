@@ -7,32 +7,38 @@
   - Name
   - Experience with coding (Scratch, Python, Html, Javascript, Arduino etc.)
   - Favorite game - they like to play
-  - What would they like to code?
-  - Why are they here? How did they hear about it?
+  - What would they like to learn here? How did they find out about this club?
+  - Gesture
+
+### 2. Motivation
+- Why Scratch - easy to learn, hard to master and can make really cool games with it
+  - [Geometry Dash](https://scratch.mit.edu/projects/105500895/)
+    - Player -> remove code from do die block
+  - [Paper Minecraft](https://scratch.mit.edu/projects/10128407)
+    - The fun part of coding is we can change the code to do what we like!
+    - Steve -> CheckKeys -> set _sy to something else
+    - Steve -> CheckKeys -> Set Walk
   
-### 2. Set expectations
+### 3. Set expectations
 - What kind of games are we going to make (2D games, project at end)
-  - star shooter, t-rex jumper, pexeso, zombie shooter
-- What kind of things will we have to learn on the way
-  - events
-  - control statements (if), loops (repeat n times,forever)
-  - creating clones
-  - variables
-  - block aka functions
+  - [Zombie Shooter](https://scratch.mit.edu/projects/791198994/)
+  - [Dino Jumper](https://scratch.mit.edu/projects/970811083/)
+- What they see now is probably hard to understand 
+  - We will every week explore new areas of this jungle of blocks
 - Fun stuff on the side
   - how computer stores data, ciphers, how computer images work, card magic (fix broken data)
-- Will serve as a gateway to build cool games with Unity/Godot later
+- Will serve as a gateway to build cool games with Unity later
 
-### 3. Organisational
+### 4. Organisational
 - Rules
-  - Ask questions when not understanding (there exists no stupid question)
-  - Don't worry about mistakes (the more mistakes you make the more you learn)
+  - Ask questions when not understanding (worst that happens is that I will be evil and don't tell you the answer!)
+  - Don't worry about mistakes (nothing is going to explode, maybe?! )
   - Help your friends if you see they are stuck 
-  - No playing games other than your own games (not even on Scratch)
+  - Play only your games
   - We want to be fit - swear word = 10 squats
 - Create gmails 
 - Sign everybody to Google Classroom
   - When I need to share some link with them
   - When they will share games so we can play them all
-  - (Maybe to send them roadmap for the ones more interested)
-  - (Or for interesting resources: Griffpatch, Scrathc - Al Sweigart, CS Field Guide)
+
+- What would they like to code? (game idea)
