@@ -8,3 +8,4 @@
 2. Příhlášení na gmail a do google classroom - problém, jelikož je potřeba mobilní telefon (zbytek se přihlásit s pomocí rodičů doma)
 3. Ukázka her ve Scratchi a úprava kódu (Geometry Dash, Paper Minecraft)
 4. Projekt [Animace jména](https://scratch.mit.edu/projects/1070435542/)
++ [přidat zbylé do google classroom, dodělat programy se jmény a odprezentovat je před třídou]
