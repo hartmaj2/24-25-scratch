@@ -6,7 +6,7 @@
 
 ### 22.9.2023
 
- jednoduchá animace čtverce, nekonečný cyklus, reakce na vstup od uživatele pomocí podmíněných příkazů
+jednoduchá animace čtverce, nekonečný cyklus, reakce na vstup od uživatele pomocí podmíněných příkazů
 
 
 ### 29.9.2023
