@@ -14,3 +14,6 @@
     - square/circle - all edges same length
   - editing shape - hold option to resize while keeping the center fixed
 - shift + green flag - run in turbo mode (computer will not refresh screen every time and will run faster)
+
+# Interesting facts
+- 20 move blocks one after another will run immediately all; one move block inside a repeat 20 times block will run them slower
