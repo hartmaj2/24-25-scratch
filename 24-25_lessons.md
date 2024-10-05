@@ -26,6 +26,8 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 - if on edge bounce
 - rotation style (all around, left-right)
 
+## Říjen
+
 ### 4.10.2024
 
 #### Prubeh
