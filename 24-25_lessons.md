@@ -53,3 +53,26 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 - pripravit cviceni na if, if else a touching
 - detekce kolize s nepritelem na zaklade toho, jaky mame kostym
 - misto teleportu na start pri narazu do zdi hraci nedovolit projit
+
+### 11.10.2024
+
+#### Prubeh
+
+1. Cviceni - simulator krmeni domaciho mazlicka
+2. Dokoncovani programu s bludistem
+    - nepratele, kteri nas poslou zpet na start jen kdyz mame moc male cislo kostymu
+
+#### Nove koncepty/prikazy
+
+- costume number (reporter block)
+- = (boolean block) 
+- change size by
+- set drag mode
+
+#### Priste
+
+- pripravit hadanku na vice rozvetveny skript
+  - bude uzitecne nakreslit si flowchart programu
+- naucit se vytvaret klony
+  - zajimava cviceni na klony (vytvorit max mozno klonu na random mista at je sranda)
+- nejaky program, ktery vyuziva klony
