@@ -76,3 +76,36 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 - naucit se vytvaret klony
   - zajimava cviceni na klony (vytvorit max mozno klonu na random mista at je sranda)
 - nejaky program, ktery vyuziva klony
+
+### 18.10.2024
+
+#### Prubeh
+
+1. Hadanka - if a else-if
+2. Ukonceni programu s bludistem a demonstrace
+3. Cteni vstupu od uzivatele 
+   - jak se jmenujes? 
+   - kolik ti je let?
+4. Klonovani
+   - tvorba mnoha klonu pomoci repeat
+   - presouvani klonu na nahodne pozice
+   - kazdy klon ma svuj vlastni program
+
+
+#### Nove koncepty/prikazy
+
+- pohyb pomoci forever a if misto eventu
+- go to random position
+- vysilani zpravy vsem klonum
+- create clone of
+- delete this clone
+- when i start as a clone
+- ask and wait
+- repeat until
+
+#### Priste
+
+- hadanka na klony
+- jednoduche cviceni na klony (treba sazeni kaktusu)
+- prace na hre s raketkou strilejici padajici nepratele
+- teoreticky promenne
