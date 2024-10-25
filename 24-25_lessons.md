@@ -109,3 +109,25 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 - jednoduche cviceni na klony (treba sazeni kaktusu)
 - prace na hre s raketkou strilejici padajici nepratele
 - teoreticky promenne
+
+### 25.10.2024
+
+#### Prubeh 
+
+1. Hadanka: klonovani stejne postavy vs jinych postav
+2. Cviceni: kolonizace mesice
+   - hezky trik s postavou, ktera spliva s pozadim (detekce, kam necheme sazet stromecky)
+3. Projekt: Program s baldim (matematicke priklady)
+   - automaticke odstraneni pozadi ve windows
+
+#### Nove koncepty/prikazy
+
+- layers (go to front/back layer)
+- prace s editorem obrazku ve Scratchi
+- automaticke odstranovani pozadi ve Windows Paint
+
+#### Priste
+
+- prace na programu s Baldim
+  - generovani nahodnych cisel
+  - promenne
