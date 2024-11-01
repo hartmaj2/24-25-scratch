@@ -131,3 +131,29 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 - prace na programu s Baldim
   - generovani nahodnych cisel
   - promenne
+
+## Listopad
+
+### 1.11.2024
+
+#### Prubeh 
+
+1. Projekt: Program s baldim (matematicke priklady)
+   - pouzili jsme predvyrobeny projekt
+   - nejprve priklady nenahodne
+   - pridavat klony - correct, false
+   - promenna na pocitani skore
+   - ke konci nahodna cisla
+
+#### Nove koncepty/prikazy
+
+- remixovani projektu
+- promenna
+- nahodne cislo
+- join
+
+#### Priste
+
+- cviceni na promenne
+- dokoncit program s Baldim a nahodnymi cisly
+- zacit nejaky novy projekt
