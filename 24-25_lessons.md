@@ -157,3 +157,31 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 - cviceni na promenne
 - dokoncit program s Baldim a nahodnymi cisly
 - zacit nejaky novy projekt
+
+### 8.11.2024
+
+#### Prubeh
+
+- prvni cast hadanky na promenne (to nahore)
+  - zopakovani: co je to promenna, co dela join
+- vestirna
+  - diagram, jak funguje if a if else
+  - sestiuhelnikove bloky true/false
+  - pick random 
+- volba programu na kterem budeme priste pracovat
+  - vitezny program: [link](https://scratch.mit.edu/projects/123572843)
+
+#### Nove koncepty/prikazy
+
+- promenna = cislo (sestiuhelnikovy blok)
+
+#### Priste
+
+- druha cast hadanky na promenne [link](https://scratch.mit.edu/projects/1092536401/)
+- kviz na to, proc maji bloky ruzne tvary [link](https://scratch.mit.edu/projects/1094031872/)
+  - ovalne
+  - sestiuhelnikove
+  - hranate
+  - vykousnute
+- nase herni studio bude vytvaret hru tron
+  - hezky vse naplanovat
