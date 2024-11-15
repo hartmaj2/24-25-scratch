@@ -185,3 +185,39 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
   - vykousnute
 - nase herni studio bude vytvaret hru tron
   - hezky vse naplanovat
+
+### 15.11.2024
+
+### Prubeh
+
+- druha cast hadanky na promenne 
+  - ne vsichni stale pochopili co dela ukladani do promenne
+- malovani ruznych tvaru
+  - nastaveni barvy pera, mazani
+  - ctverec, trojuhelnik, kruznice
+- planovani sve vlastni hry tron
+  - nejprve ukazat jak by vypadal plan pro jinou hru
+  - planovani nasi hry kazdy sam na papir
+- programovani hry tron
+  - kradeni postavy z ciziho projektu
+  -  zmena smeru postavy zadanim uhlu
+  -  detekce doteku barvy
+  -  detekce toho, zda nemame nastaveny kostym na explozi
+
+### Nove koncepty/prikazy
+
+- prace s editorem
+  - kde je stred postavy (okolo ktereho se otaci a kam kresli)
+- pero - pen down/up, erase all, set color
+- stop all (other scripts)
+- or 
+- zjisteni jmena/cisla kostymu
+
+### Priste
+
+- dokonceni hry tron
+  - mozna: ukazani triku, aby mohl hrac malovat primo pod sebe
+  - pridani druheho hrace
+  - pridani game over obrazovky
+  - pocitani skore jednotlivych hracu
+  - pridani power upu (tlustsi cara, vetsi rychlost atd.)
