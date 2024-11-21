@@ -203,6 +203,7 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
   -  zmena smeru postavy zadanim uhlu
   -  detekce doteku barvy
   -  detekce toho, zda nemame nastaveny kostym na explozi
+     -  podle toho jsme kontrolovali, ze kdyz je explodovany -> nesmi se uz otacet
 
 ### Nove koncepty/prikazy
 
