@@ -188,7 +188,7 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 
 ### 15.11.2024
 
-### Prubeh
+#### Prubeh
 
 - druha cast hadanky na promenne 
   - ne vsichni stale pochopili co dela ukladani do promenne
@@ -205,7 +205,7 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
   -  detekce toho, zda nemame nastaveny kostym na explozi
      -  podle toho jsme kontrolovali, ze kdyz je explodovany -> nesmi se uz otacet
 
-### Nove koncepty/prikazy
+#### Nove koncepty/prikazy
 
 - prace s editorem
   - kde je stred postavy (okolo ktereho se otaci a kam kresli)
@@ -214,7 +214,7 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 - or 
 - zjisteni jmena/cisla kostymu
 
-### Priste
+#### Priste
 
 - dokonceni hry tron
   - mozna: ukazani triku, aby mohl hrac malovat primo pod sebe
