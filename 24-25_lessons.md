@@ -222,3 +222,33 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
   - pridani game over obrazovky
   - pocitani skore jednotlivych hracu
   - pridani power upu (tlustsi cara, vetsi rychlost atd.)
+
+### 22.11.2024
+
+#### Prubeh
+
+- opakovani: dokud nenastane, not
+- hadanka: jaky ze ctyr kodu dela to, co jsme si ukazali na prikladu
+- pokracovani programu tron:
+  - duplikovani postavy
+  - reseni problemu s Jakem (spatne otaceni kostymu, `stop all` bylo na spatnem miste)
+  - reakce na dotek barvy (ne na hrace)
+  - pridani promennych na skore
+  - pridani power upu
+  - promenna na rychlost
+
+#### Nove koncepty/prikazy
+
+- eyedropper na vyber barvy
+- pouziti promenne na rychlost
+- detekce doteku barev
+
+#### Priste
+
+- vylepseni hry tron
+  - pridani power upu, ktery meni rychlost hraci, ktery ho sebere
+  - pridat start game a end game button
+- prace na nove hre
+  - klony?
+- nejaka bezpocitacova aktivita
+  - csfield guide
