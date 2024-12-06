@@ -252,3 +252,38 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
   - klony?
 - nejaka bezpocitacova aktivita
   - csfield guide
+
+### 22.11.2024
+
+#### Prubeh
+
+- zajimavost:
+  - jak pocitace ukladaji data?
+  - co jsou to byty?
+  - jak je mozne, ze dokazeme pomoci 0 a 1 vyjadrit ruzna data (obrazek,text atd.)
+    - hra s kartickami
+
+- prace na hre space shooter
+  - pridani obrazku - opakovani toho, jak odstranit pozadi z obrazku
+  - pohyb hrace
+  - strelba - vytvoreni spritu pro strelu
+    - klonovani strel 
+    - objeveni strel na spravne pozici
+    - mazani strel na okraji
+
+#### Nove koncepty/prikazy
+
+- go to postava
+- delete this clone
+- create clone of
+
+#### Priste
+
+- dokoncit hru space shooter
+  - pridate nepratele
+    - pohyb nepratel (ze strany na stranu)
+    - zjevovani nepratel nahodne
+    - detekce kolize s kulkou
+  - pridani druheho typu nepratele (boss nebo asteroid)
+
+- nejaka aktivita bez pocitace z CSFieldGuide
