@@ -253,7 +253,7 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 - nejaka bezpocitacova aktivita
   - csfield guide
 
-### 22.11.2024
+## 6.12.2024
 
 #### Prubeh
 
