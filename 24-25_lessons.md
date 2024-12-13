@@ -253,7 +253,9 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 - nejaka bezpocitacova aktivita
   - csfield guide
 
-## 6.12.2024
+## Prosinec
+
+### 6.12.2024
 
 #### Prubeh
 
@@ -287,3 +289,34 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
   - pridani druheho typu nepratele (boss nebo asteroid)
 
 - nejaka aktivita bez pocitace z CSFieldGuide
+
+### 13.12.2024
+
+#### Prubeh
+
+- hadanka na zacatek
+  - ktery z kodu bude odrazet mic ze strany na stranu [link](https://scratch.mit.edu/projects/1109965299/)
+  - vylucovaci metodou zjistit, ktere to urcite nebudou
+- trik s paritou (error correction)
+  - [link](https://www.csfieldguide.org.nz/en/chapters/coding-error-control/the-parity-magic-trick/)
+  - jak to souvisi s pocitaci?
+  - v jake situaci se da vyuzit myslenka detekce zmeny jednoho bitu (posilani penez)
+- pokracovani v space shooter hrach
+  - dokonceni pohybu nepratel
+  - klonovani nepratel
+  - detekce, ze nepritele trefi strela
+  - zmena kostymu hrace pri strelbe 
+  - zmena kostymu nepratel, kdyz je trefime
+
+#### Nove koncepty
+
+- posouvani postavy na nahodne pozice na jedne strany obrazovky (fixovana jedna souradnice, druha nahodna)
+  - goto, pick random
+- rotation style - don't rotate
+- animace - switch costume, wait, switch costume
+
+#### Priste
+
+- dokoncit hru space shooter (pokud chteji)
+- aktivita bez pocitace - trideni cukrovi pro santu (nejhodnejsi deti potrebuji nejvetsi pytel sladkosti)
+- vybrat dalsi hru, na ktere budeme pracovat
