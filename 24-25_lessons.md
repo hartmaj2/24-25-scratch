@@ -352,6 +352,8 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 
 - prezentovat si programy space shooter
 - dodelat cookie clickera
+  - poskytnu hotovou implementaci text engine
+    - tim se nauci, co to jsou funkce
 - simulace zivota s klony
   - mnoho klonu, kteri budou bilozravci
   - teoreticky pridat i predatory
