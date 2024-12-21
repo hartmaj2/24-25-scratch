@@ -320,3 +320,39 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 - dokoncit hru space shooter (pokud chteji)
 - aktivita bez pocitace - trideni cukrovi pro santu (nejhodnejsi deti potrebuji nejvetsi pytel sladkosti)
 - vybrat dalsi hru, na ktere budeme pracovat
+
+### 20.12.2024
+
+### Prubeh
+
+- tridici algoritmy uvedene na Vanocnim pribehu (santa potrebuje roztridit krabice se sladkostmi podle vahy)
+  - [link](https://www.csfieldguide.org.nz/en/interactives/sorting-algorithms/)
+  - nejprve kluci vubec nevedeli jak na to
+  - po hintu (zkusit hledat postupne nejvetsi) se jim to povedlo na cca 30 porovnani
+  - po ukazce rychlejsi techniky (merge sort) to zvladli na 15 kroku
+
+- podobne vyhledavaci algoritmus
+  - [link](https://www.csfieldguide.org.nz/en/interactives/searching-algorithms/?start-level=2)
+
+- chvili jsme si hrali s ChatGPT
+  - naprogramovala mi hru cookie clicker v Pygame
+
+- prace na cookie clickeru ve Scratchi
+  - animace zvetseni postavicky pri najedi mysi nad ni
+  - animace kratkeho zvetseni pri kliknuti
+  - dvojta sila kliku po nejakou dobu od koupeni power-upu
+
+### Nove koncepty
+
+- algoritmus
+  - na stejny problem existuji ruzne rychle algoritmy
+  - proc je dulezite navrhovat rychle algoritmy?
+
+### Priste
+
+- prezentovat si programy space shooter
+- dodelat cookie clickera
+- simulace zivota s klony
+  - mnoho klonu, kteri budou bilozravci
+  - teoreticky pridat i predatory
+  - zkouset, jake budou vysledky pro ruzne parametry simulace
