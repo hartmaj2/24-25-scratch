@@ -263,7 +263,7 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
   - jak pocitace ukladaji data?
   - co jsou to byty?
   - jak je mozne, ze dokazeme pomoci 0 a 1 vyjadrit ruzna data (obrazek,text atd.)
-    - hra s kartickami
+    - vysvetleni pomoci karticek s puntiky (binary cards)
 
 - prace na hre space shooter
   - pridani obrazku - opakovani toho, jak odstranit pozadi z obrazku
@@ -323,7 +323,7 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 
 ### 20.12.2024
 
-### Prubeh
+#### Prubeh
 
 - tridici algoritmy uvedene na Vanocnim pribehu (santa potrebuje roztridit krabice se sladkostmi podle vahy)
   - [link](https://www.csfieldguide.org.nz/en/interactives/sorting-algorithms/)
@@ -338,17 +338,17 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
   - naprogramovala mi hru cookie clicker v Pygame
 
 - prace na cookie clickeru ve Scratchi
-  - animace zvetseni postavicky pri najedi mysi nad ni
+  - animace zvetseni postavicky pri najeti mysi nad ni
   - animace kratkeho zvetseni pri kliknuti
   - dvojta sila kliku po nejakou dobu od koupeni power-upu
 
-### Nove koncepty
+#### Nove koncepty
 
 - algoritmus
   - na stejny problem existuji ruzne rychle algoritmy
   - proc je dulezite navrhovat rychle algoritmy?
 
-### Priste
+#### Priste
 
 - prezentovat si programy space shooter
 - dodelat cookie clickera
