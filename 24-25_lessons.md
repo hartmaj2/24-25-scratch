@@ -358,3 +358,36 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
   - mnoho klonu, kteri budou bilozravci
   - teoreticky pridat i predatory
   - zkouset, jake budou vysledky pro ruzne parametry simulace
+
+## Leden
+
+### 1.10.2025
+
+#### Prubeh
+
+- ukazka vtipneho programu - dialogove okno, ktere utika kdyz se ho snazis zavrit
+- rozcvicka - Plosinovka na webu Umime informatiku
+- prace na hre Cookie Clicker ve Scratchi
+  - pridani obrazku - pozadi, klikaci vec, power upy
+  - pridavani bodu pri kliknuti na klikaci vec
+    - promenna typu ocitadlo
+  - nakup power upu
+    - promenna typu ano/ne
+    - nakup bud kliknutim nebo automaticky
+    - kdyz mame power upu, pridavat vice bodu
+
+#### Klicove koncepty
+
+- when this sprite clicked
+- variables
+  - change vs set - dulezite zadat jmeno spravne promenne
+- if hodnota promenne > | = nejaka zadana hodnota
+
+#### Priste
+
+- pokracovat na Cookie clickeru
+  - pridani dalsich power upu co funguji treba trochu jinak (casove)
+    - dat moznosti, jak mohou fungovat a oni si vyberou
+  - zlepsit vizualni kabatek
+    - animace pri kliknuti
+    - svetelne kuzely rotujici za veci, na kterou se klika
