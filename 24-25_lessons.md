@@ -391,3 +391,31 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
   - zlepsit vizualni kabatek
     - animace pri kliknuti
     - svetelne kuzely rotujici za veci, na kterou se klika
+
+### 17.1.2025
+
+#### Prubeh
+
+- Vsichni
+  - marsovske mise Perseverance
+    - ukazani webu nasa, 3d model roveru, mapa trasy
+    - snazime se pouzit co nejmene bloku
+    - kresleni 12-uhelniku (jak si spocitat o kolik se mam otocit)
+    - vice 12-uhelniku -> pouzit funkce (pojmenovany kus kodu)
+    - hadovity utvar -> chytre vyuzit toho, co se opakuje
+    - snekovity utvar -> pouzit promennou na zmensovani delky strany
+
+- Jake
+  - cookie clicker
+    - nakup upgradu zvysujici click power
+    - nakup upgradu auto generujici cookies
+
+#### Klicove koncepty
+
+- bloky/funkce
+- vsimat si opakujicich se vzorcu -> pouzit repeat nebo si vytvorit funkci
+- prostorova predstavivost
+
+#### Priste
+
+- vylepsovani cookie clickera
