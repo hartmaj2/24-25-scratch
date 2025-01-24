@@ -419,3 +419,41 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 #### Priste
 
 - vylepsovani cookie clickera
+
+### 24.1.2025
+
+#### Prubeh
+
+- hadanka, co udela dany kod
+  - bez funkci vs s funkcemi
+- rozcvicka na umime informatiku
+  - plosinovka: carovani (8 levelu)
+- cookie clicker
+  - opakovani zpusobem otazek: co postupne bych mel pridat, aby ta hra byla hratelna
+    - tlacitko, ktere pridava skore
+    - nejaky upgrade - zvysi automaticke generovani cookiesek
+      - jak zprovoznit pridavani daneho poctu cookies po kazde sekunde?
+      - upgrade by mel neco stat a tu cenu nam opravdu strhnout pri nakupu
+    - animace cudliku (spravna hra by mela na hrace reagovat)
+    - pridani textu do hry
+      - cenovky, popis co veci delaji
+    - upgrade na zvyseni sily kliknuti
+
+#### Nove koncepty
+
+- pouzivani hodnot promennych na nastavovani hodnoty jine promenne
+  - hodnota promenne sila kliku ovlivnuje hodnotu, o kterou se zmeni skore atd.
+- casovana opakovana udalost
+  - generace cookies kazdou sekundu
+- animace
+  - zmena velikosti
+  - casovani animace
+
+#### Priste
+
+- demonstrovat si navzajem sve projekty (kdo bude chtit)
+- take je moznost jeste ty hry trochu vylepsit
+- zamyslet se nad dalsi hrou, kterou by chteli programovat
+  - neco s gravitaci?
+  - zombie shooter?
+  - inspirovat se na creative coding challenges?
