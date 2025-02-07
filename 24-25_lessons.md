@@ -458,6 +458,8 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
   - zombie shooter?
   - inspirovat se na creative coding challenges?
 
+## Unor
+
 ### 7.2.2025
 
 ### Prubeh
