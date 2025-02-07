@@ -457,3 +457,25 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
   - neco s gravitaci?
   - zombie shooter?
   - inspirovat se na creative coding challenges?
+
+### 7.2.2025
+
+### Prubeh
+
+- samostatne dodelavani svych projektu cookie clicker
+- prace na ukolech upravujicich cizi program
+  - rychlejsi strelba
+  - opili pirati
+  - aktivace stitu
+
+- Rikard 
+  - zacatky prace se Scratchem: animace jmena
+
+### Nove koncepty
+
+- postava kopirujici pozici jine postavy (forever + goto)
+
+### Priste
+
+- novy program
+  - dat vybrat (gravitace, zombici, nebo nejak upravit huste ty piraty)
