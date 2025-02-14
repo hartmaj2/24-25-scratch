@@ -462,7 +462,7 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 
 ### 7.2.2025
 
-### Prubeh
+#### Prubeh
 
 - samostatne dodelavani svych projektu cookie clicker
 - prace na ukolech upravujicich cizi program
@@ -473,11 +473,11 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 - Rikard 
   - zacatky prace se Scratchem: animace jmena
 
-### Nove koncepty
+#### Nove koncepty
 
 - postava kopirujici pozici jine postavy (forever + goto)
 
-### Priste
+#### Priste
 
 - novy program
   - dat vybrat (gravitace, zombici, nebo nejak upravit huste ty piraty)
