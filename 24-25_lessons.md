@@ -481,3 +481,29 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 
 - novy program
   - dat vybrat (gravitace, zombici, nebo nejak upravit huste ty piraty)
+
+### 14.2.2025
+
+#### Prubeh
+
+- umime informatiku - plosinovka - podminky
+- uprava hry pirati
+  - kraken
+    - jde rovne a odrazi se od steny
+    - vynorovani a zanorovani
+    - zacatek nahodnym smerem
+  - explodujici ostrov
+    - vysilani zpravy pro explozi
+    - animace exploze
+
+#### Nove koncepty
+
+- pouzivani gif obrazku k animovani
+
+#### Priste
+
+- vylepsovat piraty
+  - dodelat krakena
+    - obcasne nahodne otocky
+    - moznost sezrat hrace
+  - rekl jsem detem, at se doma zamysli, co by do hry jeste chteli pridat
