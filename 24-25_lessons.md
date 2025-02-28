@@ -507,3 +507,27 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
     - obcasne nahodne otocky
     - moznost sezrat hrace
   - rekl jsem detem, at se doma zamysli, co by do hry jeste chteli pridat
+
+### 28.2.2025
+
+#### Prubeh
+
+- umime informatiku: rozsirene podminky
+- ulozka s misi co utika kocce
+  - kocka litat tam, kde je mys
+  - mys se divat stale na kocku
+  - mys stale couvat dozadu
+  - pridat podminku na detekci vzdalenosti
+    - hack - pridat kruh okolo kocoura
+    - jine reseni - pouzit distance
+  - teleportovani na opacne okraje obrazovky pri vylezeni pres okraj
+
+#### Nove koncepty/prikazy
+
+- distance
+- prace se souradnicemi (detekce vybehnuti za okraj)
+
+#### Priste
+
+- pracovat na nejake hre vybrane:
+  - nejlepe geometry blaster: [link](https://scratch.mit.edu/projects/114277822)
