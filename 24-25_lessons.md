@@ -531,3 +531,26 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 
 - pracovat na nejake hre vybrane:
   - nejlepe geometry blaster: [link](https://scratch.mit.edu/projects/114277822)
+
+## Brezen
+
+### 7.3.2025
+
+#### Prubeh
+
+- prace na hre geometry blaster [link](https://scratch.mit.edu/projects/114277822)
+
+- pohyb hrace
+- strelba
+- generovani nepratel (zatim jen z jednoho mista po pevne danem casovem intervalu)
+
+#### Nove koncepty
+
+- generovani nepratel v danem casovem intervalu
+
+#### Priste
+
+- ubirani zivotu hraci
+- generovat nepratele z ruznych mist a v ruznych intervalech
+- mit vice ruznych typu nepratel
+- power-upy (ruzne typy strel)
