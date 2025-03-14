@@ -554,3 +554,29 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 - generovat nepratele z ruznych mist a v ruznych intervalech
 - mit vice ruznych typu nepratel
 - power-upy (ruzne typy strel)
+
+### 14.3.2025
+
+#### Prubeh
+
+- pridani game over obrazovky 
+  - demonstrace, proc neni dobre to delat jako backdrop
+
+- rozdeleni pohybu a kolizi na funkce
+
+- pridani power upu
+  - jak udelat, aby se power up objevil na miste, kde umrel nejaky nepritel
+
+#### Nove koncepty
+
+- sdelit nejakemu klonovi pozici, kde se neco stalo
+  - normalne lze jen vyslat zpravu, ale te nejde predat data
+  - data ulozime do promennych pro to urcenych
+
+#### Priste
+
+- nechat nepratele chodit z vice smeru
+- pridat ruzne typy nepratel
+- pridat ruzne typy strel
+  
+- teoreticky pracovat na nove hre
