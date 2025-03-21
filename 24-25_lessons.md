@@ -580,3 +580,23 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 - pridat ruzne typy strel
   
 - teoreticky pracovat na nove hre
+
+### 21.3.2025
+
+#### Prubeh
+
+- Astro Pi Mission Zero challenge
+  - [link](https://astro-pi.org/mission-zero)
+  - co je to ISS, uvod do souteze
+  - jak v pocitaci reprezentujeme obrazky (r,g,b)
+  - nastavovani pixelu podle souradnic
+  - nastavovani pixelu ze seznamu
+  - for cyklus, sleep na animaci vice obrazku
+
+#### Nove koncepty
+
+- jak se programuje v dospelackem textovem programovacim jazyce
+
+#### Priste
+
+- tymova hra s Legem
