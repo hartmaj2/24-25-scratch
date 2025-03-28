@@ -600,3 +600,50 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 #### Priste
 
 - tymova hra s Legem
+
+### 28.3.2025
+
+#### Prubeh
+
+- rekapitulace:
+  - co se jim behem roku libilo
+    - Tom - zombie shooter
+    - Simca - cookie clicker
+  - co jim prislo tezke
+    - Tom - marsovska mise
+    - jinak pry dobre
+
+- co by chteli delat priste:
+  - Tom - dodelat zombiki, potom flappy bird
+
+- tymova hra s Legem
+  - dva tymy - popisovac a stavitel
+  - tri kola - postupne tezsi a tezsi stavby
+    - casy na stavbu: 5,7,10 (minut)
+  - holky pouzivaly souradnice a fakt se jim to povedlo (Simca,Emi)
+  - kluci (Riki,Tom)
+
+- zombie shooter (scratch)
+  - pridani skore pri zniceni nepritele
+  - spawnovani nepratel na ruznych mistech praveho okraje obrazovky
+  - trojite strileni
+    - pouzit send message misto primeho klonovani
+
+#### Nove koncepty
+
+- generovani vice klonu zaraz
+- vyuzivani random cisel pro nastaveni nahodne pozice
+
+#### Priste
+
+- ukazat tutorialy griffpatche
+
+- slepicka trenink na souradnice
+  - zavod na cas
+
+- vylepsit zombie shootera
+  - pridat bosse
+  - ruzne power upy
+  - ruzne nepratele
+
+- teoreticky znovu lego hru
