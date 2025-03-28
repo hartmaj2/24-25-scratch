@@ -42,3 +42,5 @@
 - do clones react to messages?
   
 - what events do clones react to?
+
+- is there a better way to create power up drops instead of having to store the drop position in variables? (i.e. having drop_x, drop_y)
