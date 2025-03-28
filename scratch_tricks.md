@@ -1,8 +1,14 @@
 # Useful tricks in Scratch
-- add ons
-  - Editor find bar
-  - debug
-  - Rename message
+
+## Add ons
+
+- Editor find bar
+  - Adds a find bar, that can be used to search for variables, blocks, broadcasts etc.
+  - Also activated with ctrl + F
+- Debug
+- Rename message
+
+## Misc
 - backpack
   - steal stuff from other projects (don't have to be your own)
 - yellow background of running code
@@ -15,5 +21,5 @@
   - editing shape - hold option to resize while keeping the center fixed
 - shift + green flag - run in turbo mode (computer will not refresh screen every time and will run faster)
 
-# Interesting facts
+## Interesting facts
 - 20 move blocks one after another will run immediately all; one move block inside a repeat 20 times block will run them slower
