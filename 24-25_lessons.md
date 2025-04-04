@@ -647,3 +647,33 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
   - ruzne nepratele
 
 - teoreticky znovu lego hru
+
+## Duben
+
+### 4.4.2025
+
+#### Prubeh
+
+- zapomnel jsem si notebook a musel jsem se pro nej vracet, tak jsem prisel az tak ve 15:02
+
+- znovu tymova hra s legem
+  - Simca + Riki VS Jake + Tom + Dan
+  - Simca a Riki pouzivali souradnice a slo jim to hodne dobre
+  - hrali jsme 2 kola po 10 minutach
+  - priste by bylo fajn, kdyby ten lepsi tym poradil tomu horsimu, jak na to sli (muzou az uplne na konci, kdyz uz je jistota, ze se nebude hrat dalsi kolo a nevyzradi tak svoje tajemstvi k uspechu)
+
+- sifrovani
+  - ukazka ruznych druhu sifer (transpozicni, substitucni)
+  - Simca ukazala sifru, kterou zna (Caesar o 13 napsanim abecedy do dvou stejne dlouhych radku)
+  - vyrabeni sifrovaciho kolecka a lusteni textu
+    - [text](25_04_04/sifry.pdf)
+    - text byl na ne prilis slozity bylo by lepsi to vice vysvetlit
+
+#### Nove koncepty
+
+- sifrovani
+
+#### Priste
+
+- rekapitulace toho, kde se v realnem zivote vyuziva sifrovani
+- programovani ve Scratchi
