@@ -15,3 +15,7 @@
 ## Ideas for projects to make with students
 
 - [link](https://scratch.mit.edu/studios/36367250)
+
+## Finding out how to do stuff in Scratch
+
+- competition, who can find out how to create gravity in Scratch using Google,ChatGPT or YouTube
