@@ -37,6 +37,10 @@
 
 - 20 move blocks one after another will run immediately all; one move block inside a repeat 20 times block will run them slower
 
+- there exists a block that gives us x/y position of any Sprite
+
+![y_pos_sprite](Resources/y_pos_sprite.png)
+
 ## What to find out
 
 - do clones react to messages?
