@@ -677,3 +677,37 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 
 - rekapitulace toho, kde se v realnem zivote vyuziva sifrovani
 - programovani ve Scratchi
+
+### 11.4.2025
+
+#### Prubeh
+
+- ukazka, proc je dulezite sifrovani dat pri placeni na internetu
+  - placeni jednorazovou kreditni kartou
+
+- soutez, kdo dokaze nejdrive na internetu vyhledat, jak zprovoznit skakani
+  - tymy po dvou
+  - vyhral Jake ktery byl sam
+
+- vysvetleni jak funguje gravitace
+
+- tvorba flappy birda ve Scratchi
+  - vyuzijeme ten kod na skakani s gravitaci
+  - pridani prekazky
+  - pocitani bodu (pouzili jsme message a wait aby to nepocitalo mockrat)
+  - zrychleni prekazek po urcitem skore
+
+#### Nove koncepty
+
+- gravitace
+- when I receive muze bezet jenom jedno naraz
+
+#### Priste
+
+- flappy bird
+  - prekazky objevovat na ruznych mistech
+
+- nova hra
+  - dinosaurus z google
+
+- Rikiho napad: tetris
