@@ -78,3 +78,15 @@ This is a new game I am just developing and will test tomorrow at DDM Coding Clu
   - healthy snacks: nuts, fruit bar, not-to-sweet-cookies
   - pencils, notebooks or something similar
   - stickers
+
+### Technical
+
+- print paper with secret codes (batches of 3 lines with some space between so I can cut them out as little pieces of paper)
+
+- bring pencils for them to write with
+
+- before the game, have a class on Scratch Teacher Account
+- create a studio
+  - they will be able to send messages only to comments of that studio
+
+- before start of the game, let them just try out sending some messages so they get used to it
