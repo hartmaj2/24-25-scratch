@@ -20,9 +20,17 @@
   - possible to change their passwords by me if they forget
   - only the student can delete their profile (but I can get his password so I can do that as well)
   - when they click on their profile, they see: student of 'classname' on the top left
+  - can get to the class just by clicking on My Class option under My Stuff option
 
-## Additional notes
+## Studios
 
-### Studios
 - students cannot comment too frequently in the studio
   - there must be at least 30 seconds between any two messages sent
+
+- students of a class automatically become curators of all studios in that class
+  - [curators](https://en.scratch-wiki.info/wiki/Curator_(studio))
+  - curators can add new projects and delete their own projects from the studio (at least by deleting the project itself)
+
+- it seems like project can be remixed as many times as one wishes
+- also, removing the original projects doesn't seem to break anything
+  - it looks like when the original project is deleted, the thanks message also disappears
