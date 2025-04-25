@@ -711,3 +711,35 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
   - dinosaurus z google
 
 - Rikiho napad: tetris
+
+
+### 25.4.2025
+
+#### Prubeh
+
+- ukazka sifrovani na prikladu s krabickou a zamky
+  - napred jen intro problemu (chceme neco poslat pres internet)
+  - jak to udelat kdyz:
+    - mame jeden zamek a dva klice (muzeme si je predat)
+    - ma kazdy vlastni zamek a svuj klic (Jake na to prisel, poslat jen zamek a ten zamknout a poslat zpet)
+    - kazdy ma vlastni zamek a svuj klic ale nechceme poslat zamek (taky na to prisel Jake)
+
+- tymova hra na tajne agenty
+  - 3 tymy
+  - predem se domluvi jak budou sifrovat
+  - pak dostane kazdy tajna slova a ta musi preposlat spoluhraci pres kanal, ktery vidi vsichni
+  - (Scratch zakovske ucty a psali jsme do komentaru v predem vyrobenem Studiu pro danou Class)
+
+- hra na predavani projektu
+  - hra ma n kol, kde n je pocet hracu
+  - v kazdem kole pracuje clovek na sve hre, kterou pak preda hraci po pravici, ktery na ni pracuje v dalsim kole
+  - nutne dobre pojmenovat vysledny projekt podle toho, komu ho posilame a jake je kolo (napr. Dan 4)
+
+#### Nove koncepty
+
+- problem s predavanim klicu pres internet 
+  - symetricke vs asymetricke sifrovani
+
+- ukazka, ze caesarova sifra je slaba
+
+- remixovani projektu (spoluprace na projektech ve Scratchi)
