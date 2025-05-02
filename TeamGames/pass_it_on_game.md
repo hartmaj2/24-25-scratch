@@ -1,4 +1,4 @@
-# Notes about pass around Scratch Game
+# Notes about pass it on Scratch Game
 
 This game has a goal to teach kids how they can use Scratch remix feature to collaborate on a single project.
 
