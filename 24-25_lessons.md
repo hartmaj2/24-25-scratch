@@ -743,3 +743,16 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 - ukazka, ze caesarova sifra je slaba
 
 - remixovani projektu (spoluprace na projektech ve Scratchi)
+
+## Kveten
+
+#### Prubeh
+
+- jen Dan
+  - zkouseli jsme Minecraft Education, ale je potreba skolni ucet
+  - vytvareni levelu v Robloxu
+  - ukazka kodu v Robloxu
+
+#### Nove koncepty
+
+- tvorba levelu v Robloxu
