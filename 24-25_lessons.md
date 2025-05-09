@@ -763,7 +763,7 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 
 #### Prubeh
 
-- Dan, Jake, Dan
+- Dan, Jake, Dan, Riki
   - umime informatiku - kod kostky Python
     - ukazka toho, jak obejit limit smazanim cookies
   - Scratch - prace se seznamy
