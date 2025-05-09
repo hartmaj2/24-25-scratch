@@ -746,6 +746,8 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 
 ## Kveten
 
+### 2.5.2025
+
 #### Prubeh
 
 - jen Dan
@@ -756,3 +758,31 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 #### Nove koncepty
 
 - tvorba levelu v Robloxu
+
+### 9.5.2025
+
+#### Prubeh
+
+- Dan, Jake, Dan
+  - umime informatiku - kod kostky Python
+    - ukazka toho, jak obejit limit smazanim cookies
+  - Scratch - prace se seznamy
+    - zakladni operace: vytvorit seznam, pridat prvky, odebrat prvky
+    - testovani limitu na max pocet prvku v seznamu (forever cyklus)
+    - vybrani nahodneho prvku ze seznamu
+    - overeni, zda jsme klikli na spravny pomoci promenne volba
+    - vybrani nekolika nahodnych prvku ze seznamu a testovani, v jakem poradi na ne klikneme
+      - pouziti mazani ze seznamu
+
+#### Nove koncepty
+
+- prace se seznamem
+
+#### Priste
+
+- dodelat hru se seznamy
+- flappy
+- kazdy vlastni hru
+- tymova hra?
+  - pair programming
+  - pass it on
