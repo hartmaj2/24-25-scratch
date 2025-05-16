@@ -786,3 +786,27 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 - tymova hra?
   - pair programming
   - pass it on
+
+
+### 16.5.2025
+
+- prace na vlastnich programech
+
+- Riki
+  - plants vs zombies
+    - sbirani slunicek klavesou
+    - zombici chozeni smerem doleva
+    - tahani zakoupene slunecnice na travnik
+
+- Jake
+  - hra s vejcem a turrety
+
+- Dan
+  - hra s helikopterou a piskem
+
+- Emi a Tom
+  - cops and robbers
+    - nakreslili jsme si mapu s domy
+    - auto
+      - jezdeni
+      - kolize s domy
