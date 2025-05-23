@@ -810,3 +810,30 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
     - auto
       - jezdeni
       - kolize s domy
+
+### 23.5.2025
+
+- prace na vlastnich projektech
+
+- Riki : plants vs zombies
+  - opraveni nakupu slunecnic
+    - vytvareni vzdy jen jednoho klona a spravne odecitani penez
+  - vytvareni strel na jednotlivych klonech peashootera
+    - pomocne promenne x,y ze kterych pak strela cte
+  - jine strely pro houbu
+
+- Jake: hra s turrety
+  - turret jezdi na horni strane obrazovky
+  - hrac hraje za vajicko a musi se vyhybat strelam
+
+- Dan F.: hra jako kombinace ruznych jiz existujicich her
+  - ziskavani postav z cizich her pomoci "backpacku" ve Scratchi
+
+- Dan S. : hra s helikopterou
+  - zpusobit, aby pisek zacal padat po stisknuti enter
+  - ukazovat hraci radiaci podle vzdalenosti od kominu
+  - detekovat, kdy pisek spadne na komin
+
+- Simca : hra s postavamy z animaku
+  - stazeni obrazku postav z internetu
+  - pohyb postavy w,a,s,d
