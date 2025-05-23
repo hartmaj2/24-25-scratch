@@ -30,6 +30,9 @@
 - fastest way to clone your project (eg. if you want to keep the old one for archiving purposes and work on a new copy)
   - in top bar of the project: `File` -> `Save as copy`
 
+- detect touch of hidden objects
+  - use `distance to` instead with some small value
+
 ## Interesting facts
 
 - there exists a Teacher account that allows you to create classes
