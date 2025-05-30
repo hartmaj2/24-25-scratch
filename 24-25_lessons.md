@@ -837,3 +837,48 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
 - Simca : hra s postavamy z animaku
   - stazeni obrazku postav z internetu
   - pohyb postavy w,a,s,d
+
+### 30.5.2025
+
+- sdileni projektu
+  - nahrani projektu do spolecneho studia
+  - demonstrace projektu navzajem
+
+- prace na vlastnich projektech
+
+- Riki : plants vs zombies
+  - pridani zombiku, kteri chodi z nahodnych pozic
+  - pridani orechu, ktery zpomaluje zombiki
+  - todo: hezci sachovnice, grid_snapping
+
+- Jake: hra s turrety
+  - pridani easter eggu, kdyz clovek klikne na buttny (animovane gify)
+  - todo: udelat hru hratelnou
+
+- Dan F.: fruit dummy hry
+  - pridani easter eggu do hry
+  - todo: udelat hru hratelnou
+
+- Dan S.: helikoptera hra
+  - opraveni padajicich pisku
+  - pridani poctu pisku v zasobe
+  - todo: udelat hru nejak slozitou a hratelnejsi (co je cilem?)
+
+- Simca: hra Alastor
+  - strileni kliknuti mysi
+  - spawnovani nepratel v rozich obrazovky
+  - todo: start menu, cil hry (nejake skore atd.)
+
+- Tom: hra cops and robbers
+  - opraveni kolizi s domy pri couvani
+  - pridani vezeni
+    - tam jde zlodej, kdyz se ho dotkne policajt
+  - todo: zpomalovani auta na trave, pridat game menu
+
+- priste:
+  - pracovat na projektech a finalizovat je
+  - ukazat si projekty a pobavit se o nich
+    - co jim prislo tezke
+    - co by udelali znovu jinak
+    - jak si lepe rozvrhnout cas
+  - kdo planuje chodit na krouzek pristi rok?
