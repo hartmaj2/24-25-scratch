@@ -882,3 +882,46 @@ Ema - vyresen [ukol](https://scratch.mit.edu/projects/1073608761) s pohybem, zpr
     - co by udelali znovu jinak
     - jak si lepe rozvrhnout cas
   - kdo planuje chodit na krouzek pristi rok?
+
+## Cerven
+
+### 6.6.2025
+
+- prace na vlastnich projektech
+
+- Riki : plants vs zombies
+  - tvorba presnejsi sachovnice
+    - copy, paste, group
+  - grid snapping na y-ove ose
+  - [vysledek](https://scratch.mit.edu/projects/1176335113)
+
+- Jake: hra s turrety
+  - pridani hrace (vajicka), ktere uhyba strelam
+  - rozpohybovani turretu
+  - strelba turretu
+  - [vysledek](https://scratch.mit.edu/projects/1176328657)
+
+- Dan F.: fruit dummy hry
+  - pridani dalsich easter eggu do hry
+  - [vysledek](https://scratch.mit.edu/projects/1179809413)
+
+- Dan S.: haseni Cernobylskeho reaktoru
+  - padani helikoptery pri dlouhe dobe ve velke radiaci
+  - pridani ruznych koncu
+    - you died
+    - you are out of sand
+    - victory
+  - [vysledek](https://scratch.mit.edu/projects/1176352181/)
+
+- Simca: hra Alastor
+  - nebyla na krouzku (vysledek je uz z minula)
+  - [vysledek](https://scratch.mit.edu/projects/1176326868)
+
+- Tom: hra cops and robbers
+  - pridani pocatecniho menu
+  - opraveni kolize pri otaceni
+  - pridani casovace
+  - [vysledek](https://scratch.mit.edu/projects/1176359458/)
+
+- Emi: hra cops and robbers
+  - nestihli jsme dat hru do studia :(
