@@ -17,4 +17,3 @@ Také jsme se věnovali práci s cizím kódem, konkrétně jsme rozvíjeli scho
 V průběhu kroužku jsme se příležitostně věnovali také aktivitám mimo počítač. Pomocí interaktivních kartiček jsme si vyzkoušeli, jak si počítače ukládají informace pomocí dvojkové soustavy. Ukázali jsme si také, jak může počítač detekovat chyby při přenosu dat. Vyzkoušeli jsme si týmovou aktivitu na rozvoj komunikačních a popisovacích dovedností. Také jsme si ukázali, jak fungují různé jednoduché šifry a popovídali jsme si o tom, k čemu nám vůbec šifrování je.
 
 Kroužek jsme zakončili tvorbou individuálních projektů, které jsme pak nahráli do společného studia a sdíleli je s ostatními.
-
