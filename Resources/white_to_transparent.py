@@ -1,3 +1,5 @@
+# Used for a gif with white background to make the background transparent
+
 from PIL import Image, ImageSequence
 
 # Open the GIF
