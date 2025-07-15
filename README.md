@@ -2,7 +2,9 @@
 
 ## What you can find here
 
-Repository made to store materials for my coding club lessons.
+Repository made to store materials for my Scratch coding club lessons.
+
+[Scratch website](https://scratch.mit.edu/)
 
 It is organized is as follows:
 - **Agendas** - contain preparations for lessons I taught at DDM Ujezd nad Lesy in Prague
