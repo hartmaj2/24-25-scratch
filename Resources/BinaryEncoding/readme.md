@@ -9,3 +9,8 @@ There exists multiple data formats. This is important because if file is an imag
 ## Guess file sizes
 
 Let students guess, which file they think will be largest and which will be smallest. Talk about why they think so.
+
+## Tips
+
+Use `hexdump -C` to view how the bytes look.
+Use `hexedit` to edit the files in terminal. For this it is good to open the terminal in another window, not in the integrated terminal in VSCode.
