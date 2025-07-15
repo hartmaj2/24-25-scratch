@@ -6,7 +6,7 @@ Repository made to store materials for my Scratch coding club lessons.
 
 [Scratch website](https://scratch.mit.edu/)
 
-It is organized is as follows:
+It is organized as follows:
 - **Agendas** - contain preparations for lessons I taught at DDM Ujezd nad Lesy in Prague
 - **Notes** - tips and tricks about Scratch, unplugged games ideas, teaching tips
 - **Resources**
