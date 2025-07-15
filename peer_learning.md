@@ -7,6 +7,7 @@
 Peer learning means, that the kids help each other and act as a teachers to themselves as well. So I am not the only source of knowledge.
 
 ## Why peer learning?
+
 - improves their communication skills (which I think are really important in life)
 - by teaching, one understands the thing way better than before
 - reading other people's codes will be a routine if they will be programmers
@@ -34,7 +35,3 @@ Peer learning means, that the kids help each other and act as a teachers to them
 ## Learning at home
 
 - YouTube tutorials - [griffpatch](https://www.youtube.com/user/griffpatch)
-
-- engine projects
-  - projects that one can use to implement a complicated mechanism in their game and build on top of that
-  - !!! not all engines explain the stuff what to do well
