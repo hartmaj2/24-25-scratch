@@ -1,31 +1,33 @@
+# Demonstrates how we can create a .wav sound file using Python
+
+# Can be interesting to test which frequencies we an hear and which not
+# My hearing range is from 20 Hz to 15_000 Hz
+
 import numpy as np
-from scipy.io.wavfile import write
+import scipy.io.wavfile
 
 # Function to generate a sine wave
-def generate_sine_wave(freq, duration, sample_rate=44100, amplitude=0.5):
-    t = np.linspace(0, duration, int(sample_rate * duration), endpoint=False)
-    wave = amplitude * np.sin(2 * np.pi * freq * t)
+def generate_sine_wave(freq, duration, sample_rate):
+    timesteps = np.linspace(0, duration, int(sample_rate * duration))
+    wave = np.sin(2 * np.pi * freq * timesteps)
     return wave
 
-# Define notes (frequencies in Hz)
-notes = {
-    'C': 261.63 * 0.5,  # Frequency of C4
-    'E': 329.63 * 0.5,  # Frequency of E4
-    'G': 392.00 * 0.5,  # Frequency of G4
-}
-
-# Generate sound for each note
+# Generates tones displaced by an octave
 sample_rate = 44100  # Samples per second
-c_wave = generate_sine_wave(notes['C'], 0.33, sample_rate)
-e_wave = generate_sine_wave(notes['E'], 0.33, sample_rate)
-g_wave = generate_sine_wave(notes['G'], 0.34, sample_rate)
+duration = 0.2
+tones = []
+freq = 30
+while freq < 2000:
+    tones.append(generate_sine_wave(freq,duration,sample_rate))
+    freq *= 2
 
 # Concatenate notes
-sequence = np.concatenate([c_wave, e_wave, g_wave])
+sequence = np.concatenate(tones)
 
-# Normalize to 16-bit PCM and save as WAV file
+# Normalize to 16-bit PCM and save as WAV file (PCM = Pulse Code Modulation)
 sixteen_bit = np.pow(2,15) - 1
-sequence = np.int16(sequence / np.max(np.abs(sequence)) * sixteen_bit)
-write("c_major_sequence_alternative.wav", sample_rate, sequence)
+sequence = np.int16(sequence / np.max(np.abs(sequence)) * sixteen_bit) # First normalize to range (-1,1) then to (-32767,32767)
+file_name = "tones.wav"
+scipy.io.wavfile.write(file_name, sample_rate, sequence)
 
-print("C major sequence saved as 'c_major_sequence_alternative.wav'")
+print(f"Sound file saved as '{file_name}'")
