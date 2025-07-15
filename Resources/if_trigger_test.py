@@ -9,15 +9,14 @@ import random
 import matplotlib.pyplot as plt
 
 n = 20
-
 trials = 100_000
-
 ifs = []
 success_ratio = []
 
+# Perform the experiments
 for ifs_count in range(2,n):
     successes = 0
-    for i in range(trials):
+    for i in range(trials): # perform many trials of this experiment
         triggers = 0
         for j in range(1,ifs_count+1):
             if random.randint(1,ifs_count) == j:
@@ -26,10 +25,13 @@ for ifs_count in range(2,n):
             successes += 1
     ifs.append(ifs_count)
     success_ratio.append(successes/trials)
+
+# Check the resulting lists
 print(f"Ifs: {ifs}")
 print(f"Ratios: {success_ratio}")
 
-plt.scatter(ifs,success_ratio)
+# Plot the resulting lists
+plt.scatter(ifs,success_ratio) 
 
 for i in range(len(success_ratio)):
     plt.text(ifs[i],success_ratio[i],f"{success_ratio[i]:.3}",ha="left",va="bottom")
