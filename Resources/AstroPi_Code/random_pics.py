@@ -1,4 +1,6 @@
-# Import the libraries
+# Loops through given number of randomly generated images (each pixel color is chosen uniformly at random)
+# Link to simulator: https://missions.astro-pi.org/mz/code_submissions/new
+
 from sense_hat import SenseHat
 import time
 import random
@@ -27,6 +29,7 @@ def get_random_image():
 
 # Add colour variables and image
 
-for i in range(5):
+reps = 5
+for i in range(reps):
     sense.set_pixels(get_random_image())
     time.sleep(1)

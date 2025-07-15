@@ -1,11 +1,17 @@
 # This program converts a png pixelart of n*n size to code for Astro Pi challenge
-# https://missions.astro-pi.org/mz/code_submissions/new
+# Link to simulator: https://missions.astro-pi.org/mz/code_submissions/new
+# Link to pixilart: https://www.pixilart.com/draw
+
+# How to use this script
+# 1. Create new image in pixilart, choose 8x8 dimensions
+# 2. Download the image as .png (Download -> Download .png)
+# 3. Run this script
 
 from PIL import Image
 import os
 import math
 
-INPUT_FILENAME = "pixil2.png"
+INPUT_FILENAME = "pixil.png"
 
 # get an array of pixels, each pixel is a tuple (red,green,blue)
 def get_color_array(filename : str) -> list[tuple]:
