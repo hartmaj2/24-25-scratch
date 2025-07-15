@@ -1,6 +1,6 @@
-# 24-25-scratch
+# About this repository
 
-## About this repository
+## What you can find here
 
 Repository made to store materials for my coding club lessons.
 
