@@ -26,3 +26,7 @@ The accounts above contain studios where you can find useful projects if you are
 I recommend the following studios for project ideas:
 - [creative coding challenges](https://scratch.mit.edu/studios/2538642/)
 - [my selection from other teachers](https://scratch.mit.edu/studios/36367250)
+
+## Featured projects made by me
+
+- [mars rover mission](https://scratch.mit.edu/projects/1121473200/)
