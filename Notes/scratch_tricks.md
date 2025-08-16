@@ -44,6 +44,8 @@
 
 - detect touch of hidden objects
   - use `distance to` instead with some small value
+  - OR EVEN BETTER, just hide them with TRANSPARENT EFFECT 100
+    - (even with transparent 100 effect, we can still detect collisions)
 
 - there exists a block that gives us x/y position of any Sprite you wish (so from one Sprite you can get information about a position of another Sprite)
   - ([y position v] of (Cat v))
