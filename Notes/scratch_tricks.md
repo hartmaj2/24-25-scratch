@@ -32,13 +32,15 @@
 - how to recognize recognize running code
   - code that is currently executed has yellow background
 
-- screen size is in ratio 4:3 (480px:360px)
+- double clicking a sprite on scene selects it in Sprite pane (one click is not enough)
 
-- run Scratch in turbo mode (computer will not refresh screen every time and will run faster)
-  - shift + green flag
+- screen size is in ratio 4:3 (480px:360px)
 
 - fastest way to clone your project (eg. if you want to keep the old one for archiving purposes and work on a new copy)
   - in top bar of the project: `File` -> `Save as copy`
+
+- run Scratch in turbo mode (computer will not refresh screen every time and will run faster)
+  - shift + green flag
 
 ## Coding tricks
 
