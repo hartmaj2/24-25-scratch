@@ -73,7 +73,7 @@ Here is general overview of the game the game:
   - `constructed building`
 
 - movement:
-  - none (just sits at the `constructed building`) which is covered so it is invidible from `communicator-builder meeting point`
+  - none (just sits at the `constructed building`) which is covered so it is invisible from `communicator-builder meeting point`
 
 - skills:
   - understanding instructions (he is the computer that performs commands from the communicator)
