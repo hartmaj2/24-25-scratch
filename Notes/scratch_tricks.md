@@ -52,6 +52,10 @@
 - there exists a block that gives us x/y position of any Sprite you wish (so from one Sprite you can get information about a position of another Sprite)
   - ([y position v] of (Cat v))
 
+- stopping a specific sound
+  - use play *until the end* block
+  - then stop other scripts will stop the script with this sound but will not stop other sounds that are not using this block
+
 ## Interesting facts
 
 - there exists a Teacher account that allows you to create classes
