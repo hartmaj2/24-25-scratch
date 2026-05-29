@@ -55,6 +55,7 @@
 - stopping a specific sound
   - use play *until the end* block
   - then stop other scripts will stop the script with this sound but will not stop other sounds that are not using this block
+  - HINT: put the sound to its own Sprite so stopping other scripts in the sprite really stops just the sound (use messages to communicate start/stopping of the sound)
 
 ## Interesting facts
 
